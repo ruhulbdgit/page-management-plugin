@@ -1,11 +1,7 @@
-/* স্টাইলশিট - স্টাইল করার জন্য */
+/* stylsheet */
 .wrap {
     max-width: 800px;
     margin: 20px auto;
-}
-
-body {
-    background-color: red;
 }
 
 .wrap h2 {
